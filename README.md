@@ -1,4 +1,4 @@
-# Streamflow Predictions
+# Streamflow and Precipitation
 
 The USGS has developed streamflow prediction models for many large rivers, including the James River through Richmond, Virginia:
 
