@@ -1,7 +1,7 @@
 # Streamflow and Precipitation
 
-The USGS has developed streamflow prediction models for many large rivers, including the James River through Richmond, Virginia:
+This GitHub repository goes along with this [blog post](https://james-kitchens.com/blog/streamflow-and-precipitation/) on my personal website.
 
-https://water.weather.gov/ahps2/hydrograph.php?gage=rmdv2&wfo=akq
+I am interested in looking at how precipitation across a river basin affects streamflow at the gauge stations.
 
-These forecasted levels are very important to local recreational kayakers as the characteristics of the river change with its height. I wanted to develop my own methods for predicting river level based on public data sources and expand these methods to streams that do not currently have forecasted values.
+The main file, streamflow-and-precipitation.R, includes the code used to create images for the post.
